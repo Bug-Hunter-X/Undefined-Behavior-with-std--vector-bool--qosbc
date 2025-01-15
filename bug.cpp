@@ -1,0 +1,1 @@
+std::vector<bool> vec; // ... some operations ... vec.size(); // undefined behavior if vec is empty
